@@ -2,7 +2,7 @@
 # Arquitetura para Draw.io (Znuny + Magalu Cloud)
 
 ## Objetivo
-Este desenho representa a infraestrutura criada pelos arquivos Terraform deste projeto.
+Mostrar, como proviionar e observar ótimo anbiente agradável da nuvem da MAGALU-CLOUD.
 
 ## Componentes (caixas)
 1. Usuario/Browser
