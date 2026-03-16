@@ -3,34 +3,7 @@
 
 ## Objetivo
 Este desenho representa a infraestrutura criada pelos arquivos Terraform deste projeto.
-[Usuário/Navegador]
-          |
-          v
-      [Internet]
-          |
-          v
-[Security Group :80]
-          |
-          v
- [VM Ubuntu 24.04]
-          |
-          v
-      [Apache2]
-          |
-          v
-    [Znuny 7.1.3]
-      |         \
-      |          \
-      v           v
-[DBaaS MySQL]   [Backup Script + Cron 02:00]
-                         |
-                         v
-          [Bucket znuny-backup-lab]
-             |                    |
-             v                    v
-       prefixo var/         prefixo db/
-    arquivos do Znuny      dump .sql.gz
-    
+
 ## Componentes (caixas)
 1. Usuario/Browser
 2. Internet
