@@ -51,9 +51,8 @@ Este desenho representa a infraestrutura criada pelos arquivos Terraform deste p
 - Banco: MySQL 8.0
 - Backup: sincronizacao para Object Storage diaria
 
-## Mermaid (opcional para importar no Draw.io)
-Draw.io suporta importacao de Mermaid em algumas versoes. Se quiser, use este bloco como base:
-
+## Mapa Mental
+ 
 ```mermaid
 flowchart LR
     U[Usuario / Browser] --> I[Internet]
