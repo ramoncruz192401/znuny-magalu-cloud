@@ -1,0 +1,16 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+*.tfplan
+*.tfplan.*
+
+# Local credentials/secrets
+*.auto.tfvars
+*.auto.tfvars.json
+credentials.local.sh
+
+# Optional local overrides
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
