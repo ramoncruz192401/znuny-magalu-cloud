@@ -2,7 +2,7 @@
 # Arquitetura para Draw.io (Znuny + Magalu Cloud)
 
 ## Objetivo
-Mostrar, como proviionar e observar ótimo anbiente agradável da nuvem da MAGALU-CLOUD.
+Mostrar, como proviionar e observar ótimo ambiente agradável da nuvem da MAGALU-CLOUD.
 
 ## Componentes (caixas)
 1. Usuario/Browser
